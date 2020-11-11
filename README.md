@@ -1,4 +1,5 @@
-# SdSandbox, fork of team Parking Lot Nerds, version based on SDSandbox v 20.10.28
+# SdSandbox, fork of team Parking Lot Nerds
+*version based on SDSandbox v 20.10.28*
 
 ## Changes
 - ...
