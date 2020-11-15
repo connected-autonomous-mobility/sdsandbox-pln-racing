@@ -1,5 +1,6 @@
 # SdSandbox, fork of team Parking Lot Nerds
 *version based on SDSandbox v 20.10.28*, Nov. 14th, 2020
+*Race Edition v20.11.13*
 
 ## Changes
 - ...
